@@ -18,5 +18,7 @@ not yet published
 
 ```javascript
 const runicode = require('runicode')
-const hello_valhalla = runicode('hello world')
+const to_valhallo = runicode('hello world')
 ```
+
+to_valhallo will be ᚽᛂᛛᛛᚭ ᚥᚭᚱᛛᛑ
