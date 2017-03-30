@@ -1,0 +1,13 @@
+{
+  "name": "runicode",
+  "version": "1.0.0",
+  "description": "encodes strings to runes",
+  "main": "index.js",
+  "repository": {},
+  "scripts": {
+    "test": "node index.test.js",
+    "start": "node index.js"
+  },
+  "author": "Jan Sziegaud",
+  "license": "MIT"
+}
