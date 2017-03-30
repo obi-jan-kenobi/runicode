@@ -12,7 +12,7 @@ Exports single function that encodes strings. Every other input will return null
 ### Installation
 
 ```
-not yet published
+npm install runicode
 ```
 
 ### Example

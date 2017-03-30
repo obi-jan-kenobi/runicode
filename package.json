@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "encodes strings to runes",
   "main": "index.js",
-  "repository": {},
+  "keywords": ["string", "encoding", "runes"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obi-jan-kenobi/runicode"
+  },
   "scripts": {
     "test": "node index.test.js",
     "start": "node index.js"
   },
+  "bugs": {
+    "url": "https://github.com/obi-jan-kenobi/runicode/issues"
+  },
   "author": "Jan Sziegaud",
-  "license": "MIT"
+  "license": "WTFPL"
 }
